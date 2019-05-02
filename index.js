@@ -19,3 +19,7 @@ function favoriteIceCream(name) {
 function shouting(str) {
   return str.upcase;
 }
+
+function roundDown() {
+  
+}
