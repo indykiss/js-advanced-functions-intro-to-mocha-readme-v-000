@@ -11,7 +11,7 @@ function sayHeyFriend(name) {
 }
 
 function favoriteIceCream(iceCreamName) {
-  return 'I love ${iceCreamName}'';
+  return 'I love ${iceCreamName}';
 }
 
 function shouting(str) {
